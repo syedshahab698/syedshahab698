@@ -6,5 +6,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
-![counter](https://github.com/syedshahab698.m.pipedream.net)
 
