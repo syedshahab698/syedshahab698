@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as data scientist
+- 🔭 I’m currently pursuing postgraduation in Artificial Intelligence from Durham college, Oshawa, Ontario, Canada 
 - 🌱 I’m currently learning python, data science, cloud computing, database management
 
 
